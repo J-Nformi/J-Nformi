@@ -36,10 +36,12 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,jupyter,pytorch,tensorflow,pandas,numpy,scikit-learn,matplotlib,sql,tableau" />
+    <img src="https://skillicons.dev/icons?i=bigquery,spark,hadoop,aws,r,excel,qlikview,sas,keras,hive,d3js" /><br>
 </div>
+
 
 <br/>
 <hr/>
