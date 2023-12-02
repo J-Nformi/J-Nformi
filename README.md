@@ -38,7 +38,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,jupyter,pytorch,tensorflow,pandas,numpy,scikit-learn,matplotlib,sql,tableau" />
+    <img src="https://skillicons.dev/icons?i=python,jupyter,pytorch,tensorflow,pandas,numpy,scikit-learn,matplotlib,mysql,tableau" />
     <img src="https://skillicons.dev/icons?i=bigquery,spark,hadoop,aws,r,excel,qlikview,sas,keras,hive,d3js" /><br>
 </div>
 
