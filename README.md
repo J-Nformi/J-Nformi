@@ -38,17 +38,15 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,jupyter,pytorch,tensorflow,pandas,numpy,scikit-learn,matplotlib,mysql,tableau" />
-    <img src="https://skillicons.dev/icons?i=bigquery,spark,hadoop,aws,r,excel,qlikview,sas,keras,hive,d3js" /><br>
-</div>
-
-### Languages and Tools
-
 ![Python](https://img.shields.io/badge/python-EECC5B?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-FF2F92?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Wolfram](https://img.shields.io/badge/wolfram-%23E34F26.svg?style=for-the-badge&logo=wolfram&logoColor=white)
 ![R](https://img.shields.io/badge/r-3670A0?style=for-the-badge&logo=r&logoColor=white)
+</div>
+
+
+
 
 <br/>
 <hr/>
