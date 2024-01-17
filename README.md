@@ -14,9 +14,9 @@
  
  🔭 I’m currently working on **a Price Comparison Data Engineering project **
  
- 🌱 I’m currently learning **Power BI, AWS**
+ 🌱 I’m currently learning **AWS**
 
-💬 Ask me about **Data Analytics, SQL, Python, Supply Chain and Network Operations... or anything [here](https://github.com/J-Nformi/J-Nformi/issues)**
+💬 Ask me about **Data Analytics, SQL, Python, Supply Chain and Network Operations...[here](https://github.com/J-Nformi/J-Nformi/issues)**
 
 ⚡ Fun fact **I once debugged an issue by talking it out to my rubber duck. It actually helped! 🦆🤔**
 
